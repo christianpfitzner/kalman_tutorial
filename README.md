@@ -1,5 +1,6 @@
 # kalman_tutorial
 
+This tutorial is about the famous Kalman Filter, in the context of mobile robotics, as it is taught at the Technische Hochschule Ingolstadt. 
 
 ## GPS Localization
 ![image](https://user-images.githubusercontent.com/20952014/168821455-58be9bf2-4ed0-4cd5-bec5-cdb8c447bffa.png)
