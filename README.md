@@ -13,10 +13,10 @@ Second, the update phase:
 
 
 ## GPS Localization
-![image](https://user-images.githubusercontent.com/20952014/168821455-58be9bf2-4ed0-4cd5-bec5-cdb8c447bffa.png)
 
 In the [first example](https://github.com/christianpfitzner/kalman_tutorial/blob/master/01_introduction/kalman_intro_template.m), you should apply the Kalman Filter for the purpose of localization based on raw GPS data. Think in this scenario of a robot driving outdoors in one direction. The GPS provides sensor data with a rate of 1 Hz. While the sensor does not drift over time, the raw sensor data contains a Gaussian distributed noise in the x and y direction. 
 
+![image](https://user-images.githubusercontent.com/20952014/168821455-58be9bf2-4ed0-4cd5-bec5-cdb8c447bffa.png)![image](https://user-images.githubusercontent.com/20952014/169245080-9f85a27b-fe48-46e3-ad51-6df58c92ec13.png)
 
 ## Sensor Fusion
 
