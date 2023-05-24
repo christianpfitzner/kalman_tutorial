@@ -6,6 +6,7 @@ The Kalman Filter consists of two phases, besides initialization. The first one 
 
 ![image](https://user-images.githubusercontent.com/20952014/169228784-59daf02b-207a-4e9a-8e21-6efdd1a5a119.png)
 
+
 Second, the update phase: 
 
 ![image](https://user-images.githubusercontent.com/20952014/169228921-2858797d-7c3d-4b7d-91b9-1e617e3cd5ee.png)
